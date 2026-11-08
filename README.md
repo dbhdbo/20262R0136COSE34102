@@ -1,4 +1,4 @@
-# 20262RCOSE32202
+# Nov plan
 
 11/9
 CN project2 code submission
